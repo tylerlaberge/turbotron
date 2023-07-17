@@ -22,10 +22,10 @@ Clone the repo and get going!
 ## Instructions 💅
 
 1. Clone the repo 💾
-2. Install packages `yarn` (`NPM` probably also works - untested) ⬇️
-3. For `dev` use `yarn dev` from the root
-4. For `production` use `yarn build` from the root
-   1. The `build` will be located in the root directory in the folder `builds`
+2. Install packages by running `pnpm install` from the root
+3. For `dev` use `pnpm run dev` from the root
+4. For `production` use `pnpm run build` from the root
+   1. The `build` will be located in the directory `apps/builder/dist`
 
 </br></br>
 
